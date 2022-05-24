@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the paper as below."
+preferred-citation:
+  authors:
+    - family-names: Rao
+      given-names: Sukrut
+      orcid: "https://orcid.org/0000-0001-8896-7619"
+    - family-names: Böhle
+      given-names: Moritz
+    - family-names: Schiele
+      given-names: Bernt
+      orcid: "https://orcid.org/0000-0001-9683-5237"
+  title: "Towards Better Understanding Attribution Methods"
+  type: conference-paper
+  collection-title: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  year: 2022
