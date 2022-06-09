@@ -6,6 +6,10 @@ Code for the paper:
 
 Sukrut Rao, Moritz Böhle, Bernt Schiele. Towards Better Understanding Attribution Methods. In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022.
 
+## Overview
+
+![Overview](docs/media/overview.png)
+
 ## Setup
 
 ### Prerequisites
