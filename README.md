@@ -1,6 +1,6 @@
 # Towards Better Understanding Attribution Methods
 
-[arXiv](https://arxiv.org/abs/2205.10435) | [Code](https://github.com/sukrutrao/Attribution-Evaluation)
+[arXiv](https://arxiv.org/abs/2205.10435) | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Rao_Towards_Better_Understanding_Attribution_Methods_CVPR_2022_paper.pdf) | [Code](https://github.com/sukrutrao/Attribution-Evaluation) | [Poster](https://sukrutrao.github.io/project/understanding-attributions/TowardsBetterUnderstandingAttributionMethods_Poster.pdf) | [Video](https://youtu.be/8TiB9tqmn3g) | [Supplementary Material](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Rao_Towards_Better_Understanding_CVPR_2022_supplemental.pdf)
 
 Code for the paper:
 
